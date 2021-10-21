@@ -17,9 +17,6 @@ Devise.setup do |config|
 
   # config.secret_key = 'df9b9fd6417a864d4afcee61299e55e6a62f7b8db327debe9afbb844081f7b4514d166555fe62464c5e099df2ae54f5f868ccbd4da018218517f3ceebf105223'
 
-  # config.secret_key = '859c540f3b6467664c48e1bc93104cc058238f9a1986681a9fa83bb41cbaa311d4026c9afd15070f98f0da9315752172c1d7b2d55e0599115cc86c6717c5d716'
-
-
   # ==> Controller configuration
   # Configure the parent class to the devise controllers.
   # config.parent_controller = 'DeviseController'
@@ -132,7 +129,6 @@ Devise.setup do |config|
   
   # config.pepper = '4f36499f4c841af011b7be27af2c7f2b3ce5ef2b679231d411e775073c4e66aff7a178e57c1bc9a7ca6f0c29cd71dc7f426375b521ada8555dd1ee4f25afb2a2'
   
-  # config.pepper = '2ef972ba93cbc0958c24404de163de7d703e9e706582511b3859c3d715c74442abf404658646a9ecf566ca33f8785e21279a3c82f91037d13807ae8e344b1655'
 
   # Send a notification to the original email when the user's email is changed.
   # config.send_email_changed_notification = false
